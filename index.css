@@ -226,4 +226,5 @@ button{
 .sidemap{
     margin-right: 60px;
     list-style: none;
+    position: absolute; left: 400px;
 }
