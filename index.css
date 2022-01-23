@@ -1,0 +1,204 @@
+.navbar{
+  height: 50px;
+    display: flex;
+    align-items: center;
+}
+nav{
+    flex: 1;
+    text-align: right;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 70px;
+    font-family: poppins;
+}
+nav ul li a{
+    text-decoration: none;
+    color: blue;
+    font-size: 18px;
+    font-family: poppins;
+}
+.row{
+    display:flex;
+    padding: 10px;
+    margin: 30px;
+    margin-top: 10px;
+    justify-content: space-between;
+    align-items: center;
+    font-family: poppins;
+}
+.rain{
+    padding-left: 20px;
+    align-items: center;
+    font-size: 30px;
+    font-family: poppins;
+}
+.city{
+
+}
+button{
+    width: 140px;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    background-color: orange;
+    border: 0;
+    border-radius: 20px;
+    outline: none;
+    font-family: poppins;
+    margin-top: 30px;
+}
+.leftbox{
+    position: absolute;
+    top: 700pxS;
+    display:flex;
+    float: left;
+    background-color: #E1EBE6;
+    padding: 60px 10px 100px 10px;
+    height: 50%;
+    width: 100%;
+    font-family: poppins;
+
+}
+.quality{
+    border: 1.5px solid rgb(114, 69, 69);
+    padding: 10px;
+    margin: 20px;
+    float: left;
+    width: 30%;
+    height: 50%;
+    text-align: center;
+    border-radius: 25px;
+    flex: row;
+    font-family: poppins;
+}
+.fast{
+    border: 1.5px solid rgb(114, 69, 69);
+    padding: 10px;
+    margin: 20px;
+    float: left;
+    width: 30%;
+    height: 50%;
+    text-align: center;
+    border-radius: 25px;
+    font-family: poppins;
+}
+.delicious{
+    border: 1.5px solid rgb(114, 69, 69);
+    padding: 10px;
+    margin: 20px;
+    float: left;
+    width: 30%;
+    height: 50%;
+    text-align: center;
+    border-radius: 25px;
+    font-family: poppins;
+}
+.ourmenu{
+    position: absolute; top: 1150px;
+    text-align: center;
+    font-family: poppins;
+}
+.menu{
+    position: absolute;
+    top: 1200px;
+    display:flex;
+    float: left;
+    background-color: #236142;
+    padding: 60px 10px 100px 10px;
+    height: 50%;
+    width: 100%;
+    text-align: center;
+    font-family: poppins;
+}
+.image1{
+    border: 1.5px solid rgb(179, 175, 175);
+    padding: 30px;
+    margin: 20px;
+    float: left;
+    width: 10%;
+    height: 100%;
+    text-align: center;
+    border-radius: 25px;
+    flex: row;
+    font-family: poppins;
+}
+.image2{
+    border: 1.5px solid rgb(179, 175, 175);
+    padding: 30px;
+    margin: 20px;
+    float: left;
+    width: 10%;
+    height: 100%;
+    text-align: center;
+    border-radius: 25px;
+    flex: row;
+    font-family: poppins;
+}
+.image3{
+    border: 1.5px solid rgb(179, 175, 175);
+    padding: 30px;
+    margin: 20px;
+    float: left;
+    width: 10%;
+    height: 100%;
+    text-align: center;
+    border-radius: 25px;
+    flex: row;
+    font-family: poppins;
+}
+.image4{
+    border: 1.5px solid rgb(179, 175, 175);
+    padding: 30px;
+    margin: 20px;
+    float: left;
+    width: 10%;
+    height: 100%;
+    text-align: center;
+    border-radius: 25px;
+    flex: row;
+    font-family: poppins;
+}
+.image5{
+    border: 1.5px solid rgb(179, 175, 175);
+    padding: 30px;
+    margin: 20px;
+    float: left;
+    width: 10%;
+    height: 100%;
+    text-align: center;
+    border-radius: 25px;
+    flex: row;
+    font-family: poppins;
+}
+.image6{
+    border: 1.5px solid rgb(179, 175, 175);
+    padding: 30px;
+    margin: 20px;
+    float: left;
+    width: 10%;
+    height: 100%;
+    text-align: center;
+    border-radius: 25px;
+    flex: row;
+    font-family: poppins;
+}
+.hi{
+    color: chartreuse;
+}
+.doubledecker{
+    position: absolute; top: 1800px;
+    font-family: poppins;
+}
+.discover{
+    position: absolute; top: 2200px;
+    background-color: #F6B400;
+    width: 100%;
+    height: 500px;
+    font-family: poppins;
+}
+.footer{
+    position: absolute; top: 2800px;
+    font-family: poppins;
+}
