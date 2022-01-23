@@ -22,7 +22,7 @@ nav ul li a{
 .mmm{
     background: linear-gradient(-76deg, rgb(255, 166, 0) 50%, white 50%);
 }
-.firstdiv {
+.section1 {
     display:flex;
     padding: 10px;
     margin: 30px;
