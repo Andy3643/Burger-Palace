@@ -199,6 +199,9 @@ button{
     flex: row;
     font-family: poppins;
 }
+.bold{
+    font-weight: bold;
+}
 .hi{
     color: #8b0000;
 }
