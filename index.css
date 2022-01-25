@@ -105,6 +105,8 @@ button{
 .ourmenu{
     text-align: center;
     font-family: poppins;
+    font-weight: bolder;  
+     font-size: large;
 
 }
 .image1{
@@ -234,4 +236,11 @@ image2{
     flex: row;
     font-family: poppins;
     
+}
+.footerlogo{
+    display: flex;
+}
+.last{
+    display: flex;
+    background-color: blue;
 }
