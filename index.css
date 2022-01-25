@@ -66,10 +66,11 @@ button{
     margin-top: 30px;
 }
 .leftbox{
-    background-color: blueviolet;
+    background-color: #f8f8f6;
     display: flex;
+    justify-content: space-evenly;
 }
-/*.quality{
+.quality{
     border: 1.5px solid rgb(114, 69, 69);
     padding: 30px;
     margin: 30px;
@@ -102,14 +103,23 @@ button{
     font-family: poppins;
 }
 .ourmenu{
-    position: absolute; top: 1230px; left: 600px;
     text-align: center;
     font-family: poppins;
 
 }
-.menu{
-    position: absolute;
-    top: 1300px;
+.image1{
+     border: 1.5px solid rgb(114, 69, 69);
+    padding: 10px;
+    margin: 20px;
+    width: 30%;
+    height: 100%;
+    text-align: center;
+    border-radius: 25px;
+    font-family: poppins;
+
+}
+/*.menu{
+justify-content: space-evenly;
     display: inline-block;
     float: left;
     background-color: #f8f8f6;
@@ -118,80 +128,58 @@ button{
     width: 100%;
     text-align: center;
     font-family: poppins;
-}
-.image1{
-    border: 1.5px solid rgb(179, 175, 175);
-    padding: 30px;
-    margin: 20px;
-    float: left;
-    width: 25%;
-    height: 40%;
-    text-align: center;
-    border-radius: 25px;
-    flex: row;
-    font-family: poppins;
-    
-}
+}*/
+
 .image2{
-    border: 1.5px solid rgb(179, 175, 175);
-    padding: 30px;
+    border: 1.5px solid rgb(114, 69, 69);
+    padding: 10px;
     margin: 20px;
-    float: left;
-    width: 25%;
-    height: 40%;
+    width: 30%;
+    height: 100%;
     text-align: center;
     border-radius: 25px;
-    flex: row;
     font-family: poppins;
     
 }
 .image3{
-    border: 1.5px solid rgb(179, 175, 175);
-    padding: 30px;
+    border: 1.5px solid rgb(114, 69, 69);
+    padding: 10px;
     margin: 20px;
-    float: left;
-    width: 25%;
-    height: 40%;
+    width: 30%;
+    height: 100%;
     text-align: center;
     border-radius: 25px;
-    flex: row;
     font-family: poppins;
   
 }
 .image4{
-    border: 1.5px solid rgb(179, 175, 175);
-    padding: 30px;
+    border: 1.5px solid rgb(114, 69, 69);
+    padding: 10px;
     margin: 20px;
-    float: left;
-    width: 25%;
-    height: 40%;
+    width: 30%;
+    height: 100%;
     text-align: center;
     border-radius: 25px;
-    flex: row;
     font-family: poppins;
 }
 .image5{
-    border: 1.5px solid rgb(179, 175, 175);
-    padding: 30px;
+    border: 1.5px solid rgb(114, 69, 69);
+    padding: 10px;
     margin: 20px;
-    float: left;
-    width: 25%;
-    height: 40%;
+    width: 30%;
+    height: 100%;
     text-align: center;
     border-radius: 25px;
-    flex: row;
     font-family: poppins;
 }
 .image6{
-    border: 1.5px solid rgb(179, 175, 175);
-    padding: 30px;
+    border: 1.5px solid rgb(114, 69, 69);
+    padding: 10px;
     margin: 20px;
-    float: left;
-    width: 25%;
-    height: 40%;
+    width: 30%;
+    height: 100%;
     text-align: center;
     border-radius: 25px;
-    flex: row;
     font-family: poppins;
 }
 .bold{
