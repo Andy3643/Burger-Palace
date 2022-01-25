@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 .navbar{
   height: 50px;
     display: flex;
@@ -226,5 +231,19 @@ button{
 .sidemap{
     margin-right: 60px;
     list-style: none;
-    position: absolute; left: 400px;
+    position: absolute; left: 300px;
+    display: inline-block;
+}
+image2{
+    border: 1.5px solid rgb(179, 175, 175);
+    padding: 30px;
+    margin: 20px;
+    float: left;
+    width: 25%;
+    height: 40%;
+    text-align: center;
+    border-radius: 25px;
+    flex: row;
+    font-family: poppins;
+    
 }
