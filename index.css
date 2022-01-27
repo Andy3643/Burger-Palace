@@ -65,7 +65,7 @@ button{
     padding: 20px;
     background-color: orange;
     border: 0;
-    border-radius: 20px;
+    border-radius: 50px 35px 0px 50px;
     outline: none;
     font-family: poppins;
     margin-top: 30px;
@@ -274,4 +274,17 @@ button{
     justify-content: space-between;
     height: 30px;
   }
-
+  #CITYPNG{
+    float: left;
+    width: 50%;
+    position:relative; left: 300px;
+}
+.sitemap{
+    font-weight: bolder;
+display: flex;}
+hr{
+    border: red solid 3px;
+    width: 5%;
+    align-items: center;
+    margin: 0 auto;
+}
