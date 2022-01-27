@@ -24,6 +24,11 @@ nav ul li a{
     font-size: 18px;
     font-family: poppins;
 }
+.home{
+    color: black;
+    font-weight: bold;
+    font-size: large;
+}
 .mmm{
     background: linear-gradient(-76deg, rgb(255, 166, 0) 50%, white 50%);
 }
@@ -112,7 +117,7 @@ button{
 .menu1{
     justify-content: space-evenly;
     display: flex;
-    background-color: #f8f8f6;
+    background-color: #ffffff;
     padding: 100px;
     height: 100%;
     width: 100%;
@@ -122,7 +127,7 @@ button{
 .menu2{
     justify-content: space-evenly;
     display: flex;
-    background-color: #f8f8f6;
+    background-color: #ffffff;
     padding: 100px;
     height: 100%;
     width: 100%;
@@ -209,7 +214,7 @@ button{
 .doubleburger{
     font-family: poppins;
     font-size: 40px;
-    background-color: #ffffff;
+    background-color: #E1EBE6;
     height: 100%;
 }
 
