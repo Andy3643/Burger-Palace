@@ -2,12 +2,12 @@
 
 ### By Joshua Andy Opote
 ### Table of contents
-[Burger_palace](#Burger_palace)
-[Description](#Description)
-[Installation](#Installation)
-[Requiremnts](#Requiremnts)
-[Technologies_used](#Technologies_used)
-[Licence](#Licence)
++[Burger_palace](#Burger_palace)
++[Description](#Description)
++[Installation](#Installation)
++[Requiremnts](#Requiremnts)
++[Technologies_used](#Technologies_used)
++[Licence](#Licence)
 
 
 
