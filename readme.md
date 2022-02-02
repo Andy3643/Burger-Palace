@@ -1,6 +1,15 @@
 # Burger Palace
 
 ### By Joshua Andy Opote
+### Table of contents
+[Burger-palace](#Burger palace)
+[Description](#Description)
+[Installation](#Installation)
+[Requiremnts](#Requiremnts)
+[Technologies-used](#Technologies used)
+[Licence](#Licence)
+
+
 
 ### Description
 This website is designed for a burger selling comapny known as Burger Palace.The website will be used as an inteface between the company and its clients. Through the website, the clients will be able to order their favourite burgers,and make comments or compalints if any.
